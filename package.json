@@ -1,0 +1,21 @@
+{
+  "name": "srv",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "^3.2.1",
+    "react-scripts": "1.0.7",
+    "srvalidator": "^1.0.0-beta"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

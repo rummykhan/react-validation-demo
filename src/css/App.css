@@ -1,0 +1,73 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+}
+
+.App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.Form {
+    margin-top: 20px;
+}
+
+.Form-group {
+    margin-bottom: 15px;
+}
+
+.Has-error > .Help-block {
+    color: red;
+}
+
+.Form-group > label {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.Form-control {
+    padding: 12px 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.Help-block {
+    display: block;
+    margin-top: 10px;
+}
+
+.Form-state {
+    margin: 25px;
+}
+
+.Form-state > .State-Valid {
+    color: green;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.Form-state > .State-InValid {
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
