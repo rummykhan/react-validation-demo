@@ -6,7 +6,7 @@
     "bootstrap-sass": "^3.3.7",
     "jquery": "^3.2.1",
     "react-scripts": "1.0.7",
-    "srvalidator": "^1.0.4-beta"
+    "srvalidator": "^1.0.6-beta"
   },
   "dependencies": {
     "react": "^15.5.4",
